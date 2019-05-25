@@ -1,0 +1,8 @@
+*.obj
+*.exe
+*.dll
+*Debug
+lab8\Debug
+lab8\obj
+lab8/obj/*
+.idea *out/prod0uction/lab8
